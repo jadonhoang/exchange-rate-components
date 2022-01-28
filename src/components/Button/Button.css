@@ -1,0 +1,35 @@
+.dropbtn {
+    background-color: lightblue;
+    font-size: 40px;
+    padding: 10px;
+  }
+  
+.button-dropdown {
+  margin-left: 100px;
+  position: relative;
+  display: inline-block;
+  width: auto;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  max-height: 500px;
+  overflow: auto;
+  background-color: lightslategray;
+  width: auto;
+}
+
+.dropdown-content button {
+  color: black;
+  padding: 12px 16px;
+  background-color: #FFFFFF;
+}
+
+
+
+
+.show {
+  display: block;
+}

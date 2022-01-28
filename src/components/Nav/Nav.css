@@ -1,0 +1,22 @@
+:root {
+    --backgroundcolor: #ADD8E6;
+    --text-color: #231F20;
+    --odd-bar-color: #D3D3D3; 
+    --page-spacing: auto;
+  }
+
+.NavBar {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: lightslategray;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--text-color);
+    padding: var(--page--spacing);
+    border-color: var(--bg-color);
+    margin-bottom: 100px;
+    
+  }
